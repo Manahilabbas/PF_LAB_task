@@ -1,0 +1,1 @@
+The interger contain value upto 4 bytes and the value stored in int is arger then its orignal range thus the program replacethis value with the value that lies in the range of integer if we use double insteat of int the value will print as it is because double data type contain  8 bytes the alue in the program lies thi therange of it.
