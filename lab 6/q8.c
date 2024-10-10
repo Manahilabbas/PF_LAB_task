@@ -27,7 +27,7 @@ for(B=1; B<=5 ;B++)
 	
 	}
 // three continous hourglass 
-    printf("\nThree continous hologlass\n");
+    printf("\nThree continous hourglass\n");
 	int a;
 	for(B=65,a=1; B<=70||a<=13 ;B++,a++)
 	{
