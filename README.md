@@ -1,6 +1,27 @@
-# 24k1026
-<br>  HI,
-<br> * My name is Manahil Abbas and I'm 18 years old.
-<br> * I have done my intermediate from The Citizen Foundation college.
-<br> * I enjoy to do art and craft and love to solve mathematics in my free time.
- ![blank-avatar-photo-place-holder-600nw-1114445501](https://github.com/user-attachments/assets/8e6bdb78-3954-4ff3-9456-14f699640cc2)
+
+# PF Lab Tasks
+
+This repository contains my **Programming Fundamentals (PF) lab tasks** in **C++**.
+The tasks cover basics of programming, including:
+
+* Variables & Data Types
+* Input/Output
+* Conditional Statements
+* Loops
+* Functions
+* Arrays & Strings
+* Structures
+
+## How to Run
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/your-username/PF-Lab-Tasks.git
+   ```
+2. Open a lab folder and compile using g++:
+
+   ```bash
+   g++ filename.cpp -o output
+   ./output
+   
