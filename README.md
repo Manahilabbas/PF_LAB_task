@@ -1,7 +1,7 @@
 
 # PF Lab Tasks
 
-This repository contains my **Programming Fundamentals (PF) lab tasks** in **C++**.
+This repository contains my **Programming Fundamentals (PF) lab tasks** in **C**.
 The tasks cover basics of programming, including:
 
 * Variables & Data Types
@@ -19,9 +19,9 @@ The tasks cover basics of programming, including:
    ```bash
    git clone https://github.com/your-username/PF-Lab-Tasks.git
    ```
-2. Open a lab folder and compile using g++:
+2. Open a lab folder and compile using gcc:
 
    ```bash
-   g++ filename.cpp -o output
+   gcc filename.cpp -o output
    ./output
    
